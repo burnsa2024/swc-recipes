@@ -4,3 +4,4 @@
 * lemon
 * salt
 ## Instructions
+Smash the avocado
